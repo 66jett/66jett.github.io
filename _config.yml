@@ -22,7 +22,7 @@ repository               : "https://github.com/66jett/66jett.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://i0.hdslb.com/bfs/new_dyn/4bb89628d0eebbe5c7700bb3d17649141603002721.png@480w_270h_1s.avifg"
+  avatar           : #""
   name             : "陈进顺"
   pronouns         :  "he"  
   bio              : # "Short biography for the left-hand sidebar"
