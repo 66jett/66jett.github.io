@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "陈进顺"
   pronouns         :  "he"  
-  bio              :# "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "福州大学"
   uri              : # URL
